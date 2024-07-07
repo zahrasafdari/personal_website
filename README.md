@@ -1,2 +1,2 @@
 # myapp
-check branch master!!
+check out the master branch!!
